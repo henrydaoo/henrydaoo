@@ -13,7 +13,7 @@
     <img src="https://mfqblfryfdobyygrbheh.supabase.co/storage/v1/object/public/images/icons/linkedin.png" alt="LinkedIn" width="25" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/DuyThong28" target="_blank">
+  <a href="https://github.com/henrydaoo" target="_blank">
     <img src="https://mfqblfryfdobyygrbheh.supabase.co/storage/v1/object/public/images/icons/github.png" alt="GitHub" width="25" />
   </a>
   &nbsp;&nbsp;
