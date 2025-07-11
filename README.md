@@ -1,15 +1,12 @@
-<p align="center">
+<h3 align="center">
   <strong>✨ Hi, I'm Henry ✨</strong>
-</p>
+</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&size=16&color=2563EB&center=true&height=25&lines=Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&size=20&color=2563EB&center=true&height=30&lines=Full-Stack+Developer" alt="Typing SVG" />
 </div>
-<br/>
-<p align="center">
-  <strong>
+<h4 align="center">
     I design and code beautifully simple things that are crafted with care and creativity.
-  </strong>
-</p>
+</h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/duythong28/" target="_blank">
     <img src="https://mfqblfryfdobyygrbheh.supabase.co/storage/v1/object/public/images/icons/linkedin.png" alt="LinkedIn" width="25" />
