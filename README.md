@@ -30,5 +30,5 @@
 <br/>
 <br/>
 <div align="center">
-  <img width="100%" height="140" alt="image" src="https://github.com/user-attachments/assets/dc07168d-eead-4fa5-b2cc-e4b107c1e34c" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0057FF&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
