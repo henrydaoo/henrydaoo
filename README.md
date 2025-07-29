@@ -24,11 +24,5 @@
 <br/>
 <br/>
 <div align="center">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100"/>
-</div>
-<br/>
-<br/>
-<br/>
-<div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=0057FF&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
