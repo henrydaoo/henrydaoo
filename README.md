@@ -21,8 +21,6 @@
     <img src="https://mfqblfryfdobyygrbheh.supabase.co/storage/v1/object/public/images/icons/behance.png" alt="Behance" width="25" />
   </a>
 </div>
-<br/>
-<br/>
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=0057FF&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
