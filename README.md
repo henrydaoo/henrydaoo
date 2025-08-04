@@ -13,7 +13,7 @@
     <img src="https://mfqblfryfdobyygrbheh.supabase.co/storage/v1/object/public/images/icons/github.png" alt="GitHub" width="25" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.behance.net/duythong28" target="_blank">
+  <a href="https://www.behance.net/henrydaoo" target="_blank">
     <img src="https://mfqblfryfdobyygrbheh.supabase.co/storage/v1/object/public/images/icons/behance.png" alt="Behance" width="25" />
   </a>
 </div>
