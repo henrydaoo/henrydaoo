@@ -1,5 +1,5 @@
 <h3 align="center">
-  <strong>🎯 Hi, I'm Henry 🎯</strong>
+  <strong>🛸 Hi, I'm Henry 🛸</strong>
 </h3>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&size=20&color=2563EB&center=true&height=30&lines=Software+Engineer" alt="Typing SVG" />
