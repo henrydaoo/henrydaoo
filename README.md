@@ -1,5 +1,5 @@
 # Hi, I'm Henry 👋
-Fullstack Developer with expertise in building end-to-end web applications using ReactJS, Node.js, TypeScript, and modern databases. Experienced in responsive frontend, scalable backend, real-time features, and integrating AI assistants. Passionate about delivering maintainable, high-performance solutions.
+Fullstack Developer building end-to-end web applications using ReactJS, Node.js, TypeScript, and modern databases. Experienced in responsive frontend, scalable backend, and AI integration.
 
 ---
 
