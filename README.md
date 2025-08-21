@@ -20,9 +20,6 @@ Coworking space landing page with integrated chatbot. Sole Developer. Tech: Reac
 - **HunterCraft 🚀** – [Live Demo](https://huntercraft.vercel.app/) | [GitHub](https://github.com/henrydaoo/huntercraft)  
 Responsive team & product landing page with SEO optimization. Sole Developer. Tech: ReactJS, TypeScript, TailwindCSS, Shadcn UI, Supabase, Vercel
 
-- **Shopping Online 🛒** – [GitHub](https://github.com/henrydaoo/shopping-online)  
-E-commerce platform with cart, orders, and admin control. Fullstack development. Tech: ReactJS, NodeJS, MySQL, Express, TailwindCSS
-
 ---
 
 ## Tech Stack
