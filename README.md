@@ -5,14 +5,23 @@ Fullstack Developer with expertise in building end-to-end web applications using
 
 ## Featured Projects
 
-- **TickTick ⚡** – [Live demo](https://ticktickspace.vercel.app/) | [GitHub](https://github.com/henrydaoo/ticktick)  
-Collaborative project management platform with AI assistant (Botpress). Tech: ReactJS, TypeScript, TailwindCSS, Stream Chat, Botpress, Node.js, Express, MongoDB, Vercel, Render
+- **TickTick ⚡** – [Live Demo](https://ticktickspace.vercel.app/) | [GitHub](https://github.com/henrydaoo/ticktick)  
+Collaborative project management platform with AI assistant (Botpress). Fullstack development. Tech: ReactJS, TypeScript, TailwindCSS, Stream Chat, Botpress, Node.js, Express, MongoDB, Vercel, Render
 
-- **FastFood 🍔** – [Live demo](https://fastfood-demo-link.com) | [GitHub](https://github.com/henrydaoo/fastfood)  
-Ordering platform with user login, voice search, AI chatbot, and real-time tracking. Tech: ReactJS, TypeScript, TailwindCSS, Redux, NestJS, PostgreSQL, Firebase, Dialogflow, Prisma, Gemini
+- **FastFood 🍔** – [GitHub](https://github.com/henrydaoo/fastfood)  
+Ordering platform with user login, voice search, AI chatbot, cart & checkout, and real-time tracking. Frontend Lead. Tech: ReactJS, TypeScript, TailwindCSS, Redux, NestJS, PostgreSQL, Firebase, Dialogflow, Prisma, Gemini
 
-- **Private Medical Clinic 🏥** – [Live demo](https://private-clinic-demo-link.com) | [GitHub](https://github.com/henrydaoo/private-medical-clinic)  
-Clinic management system with appointments, patient records, billing, inventory, and reports. Tech: ReactJS, SCSS, Bootstrap, React Query, Redux, NodeJS, Express, MySQL
+- **Private Medical Clinic 🏥** – [GitHub](https://github.com/henrydaoo/private-medical-clinic)  
+Clinic management system with appointments, patient records, billing, inventory, and reporting. Fullstack Lead. Tech: ReactJS, SCSS, Bootstrap, React Query, Redux, NodeJS, Express, MySQL
+
+- **NextDesk 💼** – [Live Demo](https://nextdesk.henrydaoteam.workers.dev/) | [GitHub](https://github.com/henrydaoo/nextdesk)  
+Coworking space landing page with integrated chatbot. Sole Developer. Tech: ReactJS, TypeScript, TailwindCSS, Shadcn UI, Motion, Tidio
+
+- **HunterCraft 🚀** – [Live Demo](https://huntercraft.vercel.app/) | [GitHub](https://github.com/henrydaoo/huntercraft)  
+Responsive team & product landing page with SEO optimization. Sole Developer. Tech: ReactJS, TypeScript, TailwindCSS, Shadcn UI, Supabase, Vercel
+
+- **Shopping Online 🛒** – [GitHub](https://github.com/henrydaoo/shopping-online)  
+E-commerce platform with cart, orders, and admin control. Fullstack development. Tech: ReactJS, NodeJS, MySQL, Express, TailwindCSS
 
 ---
 
