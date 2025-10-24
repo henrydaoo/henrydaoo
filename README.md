@@ -1,4 +1,4 @@
-# Hi, I'm Henry 👋
+# Hi, I'm Thong 👋
 Fullstack Developer building end-to-end web applications using ReactJS, Node.js, TypeScript, and modern databases. Experienced in responsive frontend, scalable backend, and AI integration.
 
 ---
