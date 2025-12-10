@@ -1,5 +1,7 @@
 # Hi, I'm Thong (Henry) 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=henrydaoo&label=Profile%20Views&color=0e75b6&style=flat)
+
 Fullstack Developer building end-to-end web applications using ReactJS, Node.js, TypeScript, and modern databases. Experienced in responsive frontend, scalable backend, and AI integration.
 
 ## Tech Stack
